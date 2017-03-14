@@ -2,7 +2,74 @@ html {
   text-size-adjust: 100%;
 }
 
+#Wrapper {
+  width: 1000px;
+  background-color: lightgrey;
+  margin: 0 auto;
+}
+
+#Header {
+  background-color: lightslategray;
+  width: 1000px;
+  text-align: center;
+}
+
+#footer {
+  background-color: lightslategray;
+  width: 1000px;
+  text-align: center;
+}
+
+
 body {
-  margin: 0;
-  font: 16px / 1 sans-serif;
+  background-color: dimgray;
+}
+
+#Info {
+  margin: 25px;
+}
+
+p {
+  font-size: 1.25em;
+  color: dimgray;
+  font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+}
+
+h1 {
+  color: indigo;
+}
+
+.header01 {
+  font-size: 50px;
+  font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+  color: midnightblue;
+}
+
+.header02 {
+  font-size: 30px;
+  margin-left: 30px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: darkblue;
+}
+
+.para01 {
+  font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+}
+.para02 {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 1.75em;
+  color: black;
+}
+.para03 {
+  font-size: 1.3em;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.para04 {
+  font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+  color: darkblue;
+  font-size: 1.8em;
+}
+.para05 {
+  font-size: 20px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
